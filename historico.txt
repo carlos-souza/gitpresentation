@@ -1,0 +1,50 @@
+doskey /history > historico.txt
+git remote -v
+git remove -v
+git remote rm origin
+git remove -v
+git remote -v
+git remote add origin https://github.com/carlos-souza/gitpresentation
+git remote
+git remote -v
+git push origin master
+git push origin master force
+git push origin master
+git push -u origin master
+git remote -v
+git remote rm origin
+git remote -v
+git remote add origin https://github.com/carlos-souza/gitpresentation.git
+git push -u origin master
+git log --oneline --decorate --all --graph
+git log
+git log --oneline --decorate --all --graph
+echo k > k.txt
+git add -A
+git commit -m "Testando..."
+git log --oneline --decorate --all --graph
+git reset --soft b99a109
+git log --oneline --decorate --all --graph
+git status
+git commit -m "Testando de novo..."
+git status
+git log --oneline --decorate --all --graph
+git reset --mixed b99a109
+git log --oneline --decorate --all --graph
+git status
+git add -A
+git commit -m "Novo commit..."
+git log --oneline --decorate --all --graph
+git reset --hard b99a109
+git log --oneline --decorate --all --graph
+git status
+dir
+git reflog
+git reset --hard b99a109
+dir
+git reset --hard e176
+dir
+git log --oneline --decorate --all --graph
+history
+\windows\history
+doskey /history
