@@ -4,6 +4,9 @@ echo.
 echo Suspendendo a programa‡Æo atual comitada...
 echo -----------------------------------------------------------------------
 echo.
+echo    - Adicionando implementacao para suspensao...
+git add -A
+echo.
 echo    - Jogando para a lista suspensa...
 git stash save %1
 echo.
