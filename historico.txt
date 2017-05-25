@@ -48,3 +48,53 @@ git log --oneline --decorate --all --graph
 history
 \windows\history
 doskey /history
+git push -u origin master
+git staus
+git status
+git commit -A -m"teste"
+git commit -a -m"teste"
+dir
+git add effective-java-examples
+git commit effective-java-examples -m"add efetive java"
+doskey /history
+dir
+doskey /history >> historico.txt
+git push origin master
+git config --global http.proxy http://carlos-souza:cjns9511@proxy.procergs.reders:3128
+git config --global http.proxy https://carlos-souza:cjns9511@proxy.procergs.reders:3128
+git push origin master
+git config --global http.proxy http://carlos-souza:cjns9511@proxy.procergs.reders:3128
+git config --global https.proxy https://carlos-souza:cjns9511@proxy.procergs.reders:3128
+git push origin master
+git config --global https.proxy http://carlos-souza:cjns9511@proxy.procergs.reders:3128
+git --config
+git --config https.proxy
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+git push origin master
+git config --global http.proxy carlos-souza:cjns9511@proxy.procergs.reders:3128
+git config --global https.proxy carlos-souza:cjns9511@proxy.procergs.reders:3128
+git push origin master
+git config --global --unset https.proxy
+git config --global --unset http.proxy
+git config --global https.proxy http://carlos-souza:cjns9511@proxy.procergs.reders:3128
+git config --global http.proxy http://carlos-souza:cjns9511@proxy.procergs.reders:3128
+cls
+dir
+git push origin master
+https://github.com/marhan/effective-java-examples.git
+git clone https://github.com/marhan/effective-java-examples.git
+mkdir teste
+cd teste
+git clone https://github.com/carlos-souza/gitpresentation.git
+cd ..
+dir
+git remote -v
+git add .
+git commit -m"add arquivo" 
+git remote add origin https://github.com/carlos-souza/gitpresentation.git
+git remote -v
+git remote rm origin
+git remote -v
+git remote add origin https://github.com/carlos-souza/gitpresentation.git
+git remote -v
