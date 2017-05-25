@@ -7,9 +7,8 @@ echo.
 echo   - Trocando o foco para o MASTER...
 git checkout master
 echo.
-echo   - Verificando a diferen‡a com %1
+echo   - Verificando a diferen‡a com %1...
 git diff %1 master
-
 echo.
 pause
 echo.
