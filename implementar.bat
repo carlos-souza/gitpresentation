@@ -13,5 +13,9 @@ echo.
 rem echo   - Criando e mudando o foco para %1...
 rem git checkout -b %1
 rem echo.
+echo   - Última visualização:
+git log --oneline --decorate --all --graph
+echo.
 echo -----------------------------------------------------------------------
 echo BRANCH criado!!
+echo.
